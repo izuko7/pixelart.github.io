@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Google Sans", sans-serif;
+}
+
+.hero-img{
+    background-image: url(images/_\ \(1\).gif);
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.wrapper{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.wrapper h1{
+    font-size: 100px;
+    color: #fff;
+    text-align: center;
+    font-weight: 800;
+}
+
+.wrapper p{
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+.wrapper a{
+    display: block;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 17px;
+    text-decoration: none;
+    text-align: center;
+    background-color: #ffebcd;
+    margin: 20px 0;
+    width: 150px;
+    height: 45px;
+    padding: 12px;
+    border-radius: 20px;
+    color: #000;
+    border: none;
+    transition: 0.5s;
+}
+
+.wrapper a:hover{
+    background-color: #ffd59a;
+}
