@@ -41,5 +41,5 @@ Images GIF & PNG (Pixel Art)
 
 Ce projet est ouvert à la communauté. Contribue, partage et crée librement ! 🎮
 
-Live Preview : [Pixel Art Villages](https://github.com/izuko7)
+Live Preview : [Pixel Art Villages](https://izuko7.github.io/pixelart.github.io/index.html)
 
